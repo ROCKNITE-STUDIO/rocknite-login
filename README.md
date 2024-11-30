@@ -88,6 +88,19 @@ Voici des exemples d'utilisation de **ROCKNITE-LOGIN** sur différentes platefor
 
 ---
 
+## Supporter le projet
+
+Votre soutien est essentiel pour que **ROCKNITE-LOGIN** continue à évoluer ! Voici comment vous pouvez aider :
+
+1. **Donations** : Contribuez au projet pour nous permettre de maintenir et améliorer nos services :
+   - [Ko-fi](https://ko-fi.com/rocknite_studio)
+
+2. **Contributions open source** : Participez au développement en ouvrant des issues ou en proposant des pull requests via GitHub.
+
+3. **Partagez le projet** : Faites connaître **ROCKNITE-LOGIN** autour de vous et sur les réseaux sociaux.
+
+---
+
 ## Contact
 
 Pour toute question, contactez-nous via notre page GitHub :  
