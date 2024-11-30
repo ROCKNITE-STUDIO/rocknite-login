@@ -88,7 +88,7 @@ Voici des exemples d'utilisation de **ROCKNITE-LOGIN** sur différentes platefor
 
 ---
 
-## Contact & Contribuer
+## Contact
 
-Pour toute question ou contribution, contactez-nous via notre page GitHub :  
-👉 [GitHub Repository](https://github.com/<votre-utilisateur>/rocknite-login)
+Pour toute question, contactez-nous via notre page GitHub :  
+👉 [GitHub Repository](https://rocknite-studio.github.io/rocknite-login)
