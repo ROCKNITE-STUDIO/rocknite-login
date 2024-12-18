@@ -190,4 +190,4 @@ Cet docs vous explique comment gèrer :
   { "message": "Erreur d'authentification." }
   ```
 
-exemple complet d'un script js : 
+exemple complet d'un script js : [example.js](https://github.com/ROCKNITE-STUDIO/rocknite-login/blob/main/docs/HTML/exemple.js) 
