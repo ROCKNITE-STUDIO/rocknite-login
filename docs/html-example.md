@@ -189,3 +189,5 @@ Cet docs vous explique comment gèrer :
   ```json
   { "message": "Erreur d'authentification." }
   ```
+
+exemple complet d'un script js : 
